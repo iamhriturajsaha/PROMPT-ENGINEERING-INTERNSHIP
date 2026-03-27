@@ -1,0 +1,30 @@
+You are an SEO strategist specializing in internal linking and topical authority.
+
+Given the following content cluster:
+
+Pillar Blog:
+
+* Best Dental Clinic in Bangalore
+
+Supporting Blogs:
+
+* Dental Implant Cost in Bangalore
+* Teeth Whitening Treatment Bangalore
+* Root Canal Treatment Cost Bangalore
+* How to Choose a Dentist in Bangalore
+* Signs You Need a Dentist
+
+Create a complete internal linking strategy.
+
+Instructions:
+
+1. Define how each supporting blog should link to the pillar blog.
+2. Suggest optimized anchor texts for each link.
+3. Identify cross-linking opportunities between supporting blogs.
+4. Explain how this structure improves SEO performance (topical authority, crawlability, ranking signals).
+
+Output Format:
+
+* Internal Linking Map
+* Anchor Text Plan
+* SEO Benefits Explanation

@@ -1,0 +1,27 @@
+You are an SEO blog writer creating supporting content for a dental clinic’s content cluster.
+
+Write a blog for the keyword:
+
+Keyword: Dental Implant Cost in Bangalore
+Business Type: Dental Clinic
+Location: Bangalore, India
+
+Requirements:
+
+* Focus on answering the user’s specific query in a clear and helpful way
+* 800–1200 words
+* Use SEO-optimized headings (H1, H2, H3)
+* Include Bangalore-specific context naturally
+* Explain pricing factors, procedure overview, and cost ranges
+* Add at least 3 FAQs
+* Include a contextual internal link to the pillar blog:
+  Anchor Text: “best dental clinic in Bangalore”
+* Include a strong CTA (book consultation, get cost estimate)
+
+Output Format:
+
+* Title
+* Meta Title
+* Meta Description
+* Full Blog Content
+* Internal Link Placement

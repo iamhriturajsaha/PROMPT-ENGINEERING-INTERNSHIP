@@ -1,0 +1,32 @@
+You are a senior SEO content writer specializing in high-ranking, long-form blog content for healthcare businesses.
+
+Write a comprehensive pillar blog for the following topic:
+
+Topic: Best Dental Clinic in Bangalore
+Business Type: Dental Clinic
+Location: Bangalore, India
+
+Requirements:
+
+* Use a structured SEO format with H1, H2, and H3 headings
+* Write 1200–1800 words of high-quality, human-readable content
+* Naturally incorporate local SEO keywords (Bangalore-focused terms)
+* Cover the following sections:
+
+  * Overview of dental services offered
+  * Why choosing the right dental clinic matters
+  * Types of treatments available (implants, whitening, root canal, braces)
+  * Cost overview in Bangalore
+  * What to expect during a visit
+  * FAQs (minimum 5 questions)
+* Maintain a professional yet approachable tone
+* Include a strong call-to-action (e.g., book appointment, free consultation)
+* Suggest internal links to relevant supporting blogs with anchor text
+
+Output Format:
+
+* SEO Title
+* Meta Title (≤60 characters)
+* Meta Description (≤160 characters)
+* Full Blog Content (well-structured)
+* Internal Linking Suggestions

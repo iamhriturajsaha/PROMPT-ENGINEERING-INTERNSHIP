@@ -1,0 +1,28 @@
+You are an experienced SEO strategist working at a digital marketing agency.
+
+Create a complete SEO content strategy for a dental clinic website.
+
+Business Details:
+
+* Business Type: Dental Clinic
+* Location: Bangalore, India
+* Target Audience: Working professionals, families, and young adults (ages 20–50)
+* Core Services: Dental implants, teeth whitening, root canal treatment, braces, general dentistry
+
+Instructions:
+
+1. Identify the most effective primary keyword with strong commercial and local intent.
+2. Generate 5–7 supporting keywords that reflect real Google search behavior (include long-tail and problem-based queries).
+3. Define the search intent for each keyword (informational, commercial, or transactional).
+4. Build a structured content cluster:
+
+   * 1 Pillar Blog Topic
+   * 5 Supporting Blog Topics
+5. Ensure the strategy is optimized for local SEO and high conversion potential.
+
+Output Format:
+
+* Primary Keyword
+* Supporting Keywords (with search intent)
+* Content Cluster (Pillar + Supporting Blogs)
+* Strategy Explanation (how this structure improves rankings and lead generation)

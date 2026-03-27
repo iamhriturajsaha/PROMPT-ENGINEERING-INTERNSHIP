@@ -7,7 +7,6 @@ This repository showcases a collection of Prompt Engineering projects developed 
 * SEO optimization.
 * Website copy generation.
 * User-generated content (UGC) ads.
-* 
 Each project highlights prompt design strategies, output structuring and business application of LLMs.
 
 ## 🧠 Key Skills Demonstrated

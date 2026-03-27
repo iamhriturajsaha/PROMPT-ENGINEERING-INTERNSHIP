@@ -18,8 +18,6 @@ Pages to include:
 2. Services
 3. Contact Section
 
----
-
 Homepage Content:
 
 Headline:
@@ -33,8 +31,6 @@ UrbanEdge Coaching Institute helps students turn confusion into clarity with str
 
 CTA:
 Book a free demo class today
-
----
 
 Services Section:
 
@@ -58,25 +54,17 @@ Outcome: Track progress and fix weak areas
 One-on-one guidance and study planning.
 Outcome: Stay consistent and focused
 
----
-
 Trust Section:
 Trusted by students and parents across Agartala for consistent academic improvement and personal attention.
 
----
-
 Urgency Section:
 Limited seats per batch — enroll now before the next session fills up.
-
----
 
 Contact Section:
 Include:
 - Call button
 - WhatsApp button
 - Simple inquiry form
-
----
 
 Tone:
 Professional, confident, student-focused
@@ -86,8 +74,6 @@ Avoid:
 - Overly long paragraphs
 
 Make the website visually appealing with clear sections and strong call-to-action buttons.
-
----
 
 Edit:
 - Add a "Results & Performance" section showing student improvements and success outcomes.

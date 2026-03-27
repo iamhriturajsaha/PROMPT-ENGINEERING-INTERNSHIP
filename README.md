@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This repository showcases a collection of Prompt Engineering projects developed during an internship, focusing on building practical AI-powered solutions for real-world business use cases. The projects demonstrate how structured prompts can be leveraged to create scalable systems for:
+This repository showcases a collection of Prompt Engineering projects developed during the internship, focusing on building practical AI-powered solutions for real-world business use cases. The projects demonstrate how structured prompts can be leveraged to create scalable systems for -
 
 * Content marketing.
 * SEO optimization.

@@ -63,6 +63,9 @@ Generate professional website copy tailored for local businesses.
 * Localization of content.
 * Business-specific tone adaptation.
 
+**Use Case -**
+Small businesses, agencies, and freelancers building websites quickly.
+
 **Screenshots**
 <p align="center">
   <img src="AI Website Copy Generator for Local Businesses/Lovable Screenshots/1.png" alt="1" width="1000"/><br>
@@ -73,13 +76,9 @@ Generate professional website copy tailored for local businesses.
   <img src="AI Website Copy Generator for Local Businesses/Lovable Screenshots/6.png" alt="6" width="1000"/><br>
 </p>
 
-**Use Case -**
-Small businesses, agencies, and freelancers building websites quickly.
-
 ## ⚙️ How It Works
 
 Each project uses carefully structured prompts that -
-
 1. Define role and context.
 2. Provide constraints and formatting rules.
 3. Specify output structure.

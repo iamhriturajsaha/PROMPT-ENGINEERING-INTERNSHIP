@@ -34,7 +34,7 @@ Generate high-converting user-generated content (UGC) style ad scripts using AI.
 * Multi-variation content outputs.
 
 **Use Case -**
-E-commerce brands, D2C startups, and social media advertisers.
+E-commerce brands, D2C startups and social media advertisers.
 
 ### 2️⃣ AI SEO Blog & Content Cluster Generator
 
@@ -64,9 +64,9 @@ Generate professional website copy tailored for local businesses.
 * Business-specific tone adaptation.
 
 **Use Case -**
-Small businesses, agencies, and freelancers building websites quickly.
+Small businesses, agencies and freelancers building websites quickly.
 
-**Screenshots**
+**Screenshots -**
 <p align="center">
   <img src="AI Website Copy Generator for Local Businesses/Lovable Screenshots/1.png" alt="1" width="1000"/><br>
   <img src="AI Website Copy Generator for Local Businesses/Lovable Screenshots/2.png" alt="2" width="1000"/><br>

@@ -3,12 +3,11 @@
 ## 📌 Overview
 
 This repository showcases a collection of Prompt Engineering projects developed during the internship, focusing on building practical AI-powered solutions for real-world business use cases. The projects demonstrate how structured prompts can be leveraged to create scalable systems for -
-
 * Content marketing.
 * SEO optimization.
 * Website copy generation.
 * User-generated content (UGC) ads.
-
+* 
 Each project highlights prompt design strategies, output structuring and business application of LLMs.
 
 ## 🧠 Key Skills Demonstrated

@@ -1,0 +1,94 @@
+Create a modern, clean, conversion-focused website for a coaching institute.
+
+Business Details:
+- Name: UrbanEdge Coaching Institute
+- Location: Agartala
+- Target Audience: Class 10–12 students preparing for board exams, JEE, and NEET
+- Goal: Increase student enrollments
+
+Design Requirements:
+- Clean, modern layout
+- Student-focused visuals
+- Trust-building sections
+- Mobile-friendly
+- Clear CTA buttons
+
+Pages to include:
+1. Homepage
+2. Services
+3. Contact Section
+
+---
+
+Homepage Content:
+
+Headline:
+Crack Your Exams with Confidence — Not Pressure
+
+Subheadline:
+Personalized coaching for Class 10–12, JEE, and NEET students in Agartala who want real results without burnout
+
+Intro:
+UrbanEdge Coaching Institute helps students turn confusion into clarity with structured learning, expert guidance, and consistent performance tracking. With small batches and focused mentoring, we ensure every student gets the attention they need to succeed.
+
+CTA:
+Book a free demo class today
+
+---
+
+Services Section:
+
+1. Board Exam Preparation
+Complete subject coverage with structured lesson plans, revision strategies, and exam-focused practice.
+Outcome: Improve scores and reduce exam stress
+
+2. JEE Coaching
+Concept-driven teaching with advanced problem-solving and mock tests.
+Outcome: Strong conceptual clarity and better ranks
+
+3. NEET Coaching
+Biology-focused deep learning, MCQ drills, and performance analysis.
+Outcome: Higher accuracy and improved performance
+
+4. Weekly Test Series
+Timed tests with feedback and ranking analysis.
+Outcome: Track progress and fix weak areas
+
+5. Personalized Mentoring
+One-on-one guidance and study planning.
+Outcome: Stay consistent and focused
+
+---
+
+Trust Section:
+Trusted by students and parents across Agartala for consistent academic improvement and personal attention.
+
+---
+
+Urgency Section:
+Limited seats per batch — enroll now before the next session fills up.
+
+---
+
+Contact Section:
+Include:
+- Call button
+- WhatsApp button
+- Simple inquiry form
+
+---
+
+Tone:
+Professional, confident, student-focused
+
+Avoid:
+- Generic phrases like "best quality"
+- Overly long paragraphs
+
+Make the website visually appealing with clear sections and strong call-to-action buttons.
+
+---
+
+Edit:
+- Add a "Results & Performance" section showing student improvements and success outcomes.
+- Add an FAQ section answering common student and parent questions.

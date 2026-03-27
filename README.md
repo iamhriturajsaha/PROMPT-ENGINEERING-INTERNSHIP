@@ -28,13 +28,12 @@ Each project highlights prompt design strategies, output structuring and busines
 Generate high-converting user-generated content (UGC) style ad scripts using AI.
 
 **Key Features -**
-
 * Hooks optimized for engagement.
 * Emotional storytelling frameworks.
 * Conversion-focused CTA generation.
 * Multi-variation content outputs.
 
-**Use Case - **
+**Use Case -**
 E-commerce brands, D2C startups, and social media advertisers.
 
 ### 2️⃣ AI SEO Blog & Content Cluster Generator
@@ -43,7 +42,6 @@ E-commerce brands, D2C startups, and social media advertisers.
 Automate SEO strategy by generating blog topics and structured content clusters.
 
 **Key Features -**
-
 * Keyword-based content generation.
 * Topic clustering for SEO authority.
 * Blog outlines with headings (H1, H2, H3).
@@ -57,20 +55,26 @@ Businesses aiming to improve organic traffic and search rankings.
 **Objective -**
 Generate professional website copy tailored for local businesses.
 
-**Key Features -**
+**Live Link -** https://urbanedge-success-hub.lovable.app
 
+**Key Features -**
 * Homepage copy (Hero, About, Services).
 * Persuasive and conversion-focused messaging.
 * Localization of content.
 * Business-specific tone adaptation.
 
-**Additional Assets -**
-
-* UI screenshots demonstrating implementation
+**Screenshots**
+<p align="center">
+  <img src="AI Website Copy Generator for Local Businesses/Lovable Screenshots/1.png" alt="1" width="1000"/><br>
+  <img src="AI Website Copy Generator for Local Businesses/Lovable Screenshots/2.png" alt="2" width="1000"/><br>
+  <img src="AI Website Copy Generator for Local Businesses/Lovable Screenshots/3.png" alt="3" width="1000"/><br>
+  <img src="AI Website Copy Generator for Local Businesses/Lovable Screenshots/4.png" alt="4" width="1000"/><br>
+  <img src="AI Website Copy Generator for Local Businesses/Lovable Screenshots/5.png" alt="5" width="1000"/><br>
+  <img src="AI Website Copy Generator for Local Businesses/Lovable Screenshots/6.png" alt="6" width="1000"/><br>
+</p>
 
 **Use Case -**
 Small businesses, agencies, and freelancers building websites quickly.
-
 
 ## ⚙️ How It Works
 
@@ -90,7 +94,7 @@ Each project uses carefully structured prompts that -
 ## 📈 Business Impact
 
 These systems can -
-* Reduce content creation time by 80–90%
+* Reduce content creation time by 80–90%.
 * Improve marketing consistency.
 * Enable scalable AI-driven workflows.
 * Lower dependency on manual copywriting.
